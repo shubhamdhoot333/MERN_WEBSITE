@@ -1,0 +1,12 @@
+react dependency
+
+ 1.bootstrap,
+
+node dependency
+1.bcrypt
+2.cookie-parser
+3.dotenv
+4.express
+5.jsonwebtoken
+6.mongoose
+7.nodemon
